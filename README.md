@@ -1,3 +1,26 @@
+# BudgetTrack – Personal Budgeting Web Application
+
+## Project Description
+
+BudgetTrack is a simple budgeting web application that allows users to track their income and expenses in one place. Users can add new transactions, edit or delete existing entries, and view a summary of their financial activity. The goal of this project was to build a polished and deployed web app that demonstrates React state management, browser data persistence using localStorage, and an iterative AI-assisted development workflow.
+
+## Core Features
+
+- Add income and expense transactions 
+- Edit and delete transactions 
+- Automatically save financial data using browser localStorage 
+- View a financial summary including total income, total expenses, and remaining balance 
+- Filter transactions by category 
+
+## Technologies Used
+
+- Next.js (App Router) 
+- React 
+- Tailwind CSS 
+- JavaScript (ES6) 
+- Browser localStorage for data persistence 
+- Claude AI for planning, debugging, and implementation support 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
